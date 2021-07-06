@@ -1,1 +1,5 @@
-Esta es la primera linea en el archivo
+# Instrucciones
+
+Haz un pull para fusionar los cambios
+
+
